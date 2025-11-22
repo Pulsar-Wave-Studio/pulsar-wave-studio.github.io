@@ -1,0 +1,13 @@
+# production
+build
+dist
+test-dist
+test-dev
+coverage
+target
+
+# misc
+.env*
+
+# IDE files:
+.idea/*
