@@ -1,2 +1,2 @@
-# pulsar-wave-studios.github.io
-Official web page of Pulsar Wave Studios.
+# pulsar-wave-studio.github.io
+Official web page of Pulsar Wave Studio.
